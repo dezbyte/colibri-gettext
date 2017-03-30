@@ -1,2 +1,2 @@
 # colibri-gettext
-Gettext Translations 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇺🇦
+Gettext Translations 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 🇺🇦
